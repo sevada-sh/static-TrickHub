@@ -122,3 +122,8 @@ a {
 .footersmalltext {
     width: 500px;
 }
+
+.developer {
+    border-radius: 50%;
+    height: 300px;
+}
